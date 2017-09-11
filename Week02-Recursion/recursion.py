@@ -22,6 +22,12 @@ def count_up(number):
         print(number)         # print number last
 
 
+'''
+zkdjvfhskjdhfskjdf
+'skdjdfhskljdfhksd
+
+'''
+
 def main():
     print("counting down from 10 to 0...")
     count_down(10)
